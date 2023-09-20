@@ -10,4 +10,3 @@ print("Are the details shown bellow correct?")
 print("Name: ", name)
 print("Age: ", age)
 print("DOB: ", day + "/" + month + "/" + year)
-dsajhfifasfisajdfsjafsafjsafas
